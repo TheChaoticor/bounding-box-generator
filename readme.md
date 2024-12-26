@@ -24,7 +24,7 @@ To run this application, you need to have the following libraries installed:
 - torchvision
 - Pillow
 
-You can install the required libraries using pip:
+You can installi the required libraries using pip:
 
 ```bash
 pip install streamlit opencv-python numpy torch torchvision Pillow
