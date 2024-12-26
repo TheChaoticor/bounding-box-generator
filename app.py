@@ -128,6 +128,6 @@ st.markdown(
     ### Instructions:
     - **Upload Image**: Select an image from your device to generate bounding boxes.
     - **Use Webcam**: Capture a photo directly using your device's camera.
-    - **Download**: After processing, you can download the image with bounding boxes.
+    - **Downloadgg**: After processing, you can download the image with bounding boxes.
     """
 )
